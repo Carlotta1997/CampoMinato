@@ -6,7 +6,8 @@ Classico gioco del campo minato programmato in C, con funzionalità aggiuntive q
 
 ## Requisiti
 
-Deve essere installato un compilatore in C 
+Deve essere installato un compilatore in C.
+
 Per installare seguire la guida: 
 
 
@@ -14,8 +15,8 @@ Per installare seguire la guida:
 
 - Estrarre i file dalla cartella CampoMinato.zip
 - Spostarsi sulla cartella del gioco appena estratto
-- Aprire una finestra di terminale dalla directory della     cartella
-- Compilare il file con il comando gcc -Wall -o CampoMinato CampoMinato.c Funzioni.c
+- Aprire una finestra di terminale dalla directory della cartella
+- Compilare il file con il comando `gcc -Wall -o CampoMinato CampoMinato.c Funzioni.c`
 - Eseguire da terminale CampoMinato
 - Enjoy
 
@@ -28,7 +29,7 @@ Consigliata una dimensione massima di 40x20 della tabella, in modo che il campo 
 ## Problemi conosciuti
 
 Se si inserisce un carattere alfabetico il programma termina con la stampa di stringhe di testo.
-In questo caso chiudere il programma con CTRL+C
+In questo caso chiudere il programma con `CTRL+C`
 
 
 ## Contatti
